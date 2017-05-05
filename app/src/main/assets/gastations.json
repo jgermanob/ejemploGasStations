@@ -1,0 +1,130 @@
+{
+  "OxxoGas":[
+    {
+      "name":"OxxoGas Nogales",
+      "latitud":"31.721846059816244",
+      "longitud":"-106.44326939999996",
+      "direccion":"1378, Av. Plutarco Elías Calles 1352, 3a Burócrata, 32360 Cd Juárez, Chih."
+    },
+    {
+      "name":"OxxoGas Zaragoza",
+      "latitud":"31.674921509798267",
+      "longitud":"-106.43829530000005",
+      "direccion":"Calle Montes Apeninos 701, La Cuesta II, Cd Juárez, Chih."
+    },
+    {
+      "name":"OxxoGas Estación La Morena",
+      "latitud":"25.63795244492922",
+      "longitud":"-100.0859265846558",
+      "direccion":"Carretera a Reynosa 106-A, Colinas de San Juan, Colinas de San Juan(Colinas de La Morena), 67250 Juárez, NL"
+    },
+    {
+      "name":"OxxoGas Concha del Oro",
+      "latitud":"24.614573707275454",
+      "longitud":"-101.3738161",
+      "direccion":"Carr Saltillo -Zacatecas KM 113, Concepción del Oro, ZAC"
+    },
+    {
+      "name":"OxxoGas Peñuelas",
+      "latitud":"21.813547306356025",
+      "longitud":"-102.28597539999998",
+      "direccion":"Carr. a México Km.107 Col. San Antonio de Peñuelas Aguascalientes, Ags. "
+    }
+  ],
+"Esso":[
+  {
+    "name":"Lytton Esso Gas Station",
+    "latitud":"50.233266119082636",
+    "longitud":"-121.58188159999997",
+    "direccion":"Trans-Canada Hwy, Lytton, BC V0K 1Z0, Canadá"
+  },
+  {
+    "name":"Rosetown Esso Gas Station",
+    "latitud":"51.508400019970274",
+    "longitud":"-108.48852299999999",
+    "direccion":"SK-4, Rosetown, SK S0L 2V0, Canadá"
+  },
+  {
+    "name":"Biggar Esso Gas Station",
+    "latitud":"52.06188842037117",
+    "longitud":"-107.97990289999996",
+    "direccion":"SK-4 & JCT HWY 14, Biggar, SK S0K 0M0, Canadá"
+  },
+  {
+    "name":"Spiritwood Esso Gas Station",
+    "latitud":"53.36671302135688",
+    "longitud":"-107.51786119999997",
+    "direccion":"HWY 24 & HWY 3SPIRITWOOD, SK S0J"
+  },
+  {
+    "name":"Northside Esso Gas Station",
+    "latitud":"53.510588321469264",
+    "longitud":"-105.7639967",
+    "direccion":"1892 100TH ST NORTH BATTLEFORD, SK S9A 0W"
+  }
+],
+"Mobil":[
+  {
+    "name":"Bedford Mobil Gas Station",
+    "latitud":"33.47875071050248",
+    "longitud":"-117.13771974999997",
+    "direccion":"44520 Bedford Ct, Temecula, CA 92592, EE. UU."
+  },
+  {
+    "name":"Mission Trail Mobil Gas Station",
+    "latitud":"33.66016781057491",
+    "longitud":"-117.29981699999996",
+    "direccion":"31702 Mission Trail, Lake Elsinore, CA 92530, EE. UU."
+  },
+  {
+    "name":"Plaza Las Brisas Mobil Gas Station",
+    "latitud":"33.571621310539506",
+    "longitud":"-117.18440699999996",
+    "direccion":"Plaza Las Brisas, 39850 Los Alamos Rd, Murrieta, CA 92562, EE. UU."
+  },
+  {
+    "name":"Florida Eve Mobil Gas Station",
+    "latitud":"33.74715901060975",
+    "longitud":"-116.980705",
+    "direccion":"903 W Florida Ave, Hemet, CA 92543, EE. UU."
+  },
+  {
+    "name":"Portola Pkwy Mobil Gas Station",
+    "latitud":"33.672910560580014",
+    "longitud":"-117.6554496",
+    "direccion":"27252 Portola Pkwy, Foothill Ranch, CA 92610, EE. UU."
+  }
+],
+"Pemex":[
+  {
+    "name":"Pemex Zaragoza",
+    "latitud":"19.41017180559551",
+    "longitud":"-99.08033309999996",
+    "direccion":"Zaragoza Num 753, Col. Puebla, C.P. 15020, Venustiano Carranza, Ciudad de México"
+  },
+  {
+    "name":"Pemex Vallejo",
+    "latitud":"19.490796196150026",
+    "longitud":"-99.15234450000003",
+    "direccion":"Vallejo (Eje 1 Poniente), Nueva Vallejo, Nueva Vallejo I Secc, 07750 Ciudad de México, CDMX"
+  },
+  {
+    "name":"Pemex Lechería-Texcoco",
+    "latitud":"19.618206005660404",
+    "longitud":"-98.98659280000004",
+    "direccion":"Carretera Lechería Texcoco Extensión 50, Fraccionamiento San Isidro Atlautenco, San Isidro Atlautenco, 55064 Ecatepec de Morelos, Méx."
+  },
+  {
+    "name":"Pemex Las Arboledas",
+    "latitud":"19.55368880564026",
+    "longitud":"-99.21085760000005",
+    "direccion":"Calz de Los Jinetes 3, Las Arboledas, 54026 Tlalnepantla, MEX"
+  },
+  {
+    "name":"Pemex Servicios Agiles",
+    "latitud":"19.6652534056751",
+    "longitud":"-99.20905169999997",
+    "direccion":"Dr. J. Jiménez Cantú 15, Arcos de la Hacienda, 54730 Cuautitlán Izcalli, Méx."
+  }
+]
+}

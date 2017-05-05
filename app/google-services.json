@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "29213228569",
+    "firebase_url": "https://opentable-bdfc0.firebaseio.com",
+    "project_id": "opentable-bdfc0",
+    "storage_bucket": "opentable-bdfc0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29213228569:android:c9b8a81ccfcbfd25",
+        "android_client_info": {
+          "package_name": "com.germanco.opentable"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29213228569-0e4cr7oib0hhr7du9aeu9k44loochj3i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjBOgAbkHpPPg3-Ba3DueQP8nmnQfNZbI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

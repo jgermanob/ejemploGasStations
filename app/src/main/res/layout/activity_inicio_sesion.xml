@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/activity_inicio_sesion"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.germanco.opentable.InicioSesion">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="INICIAR SESIÓN"
+        android:textColor="#303F9F"
+        android:textSize="30dp"
+        android:id="@+id/tituloInicio"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <EditText
+        android:id="@+id/correoInicio"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Introduce tu correo"
+        android:layout_below="@+id/tituloInicio"
+        android:inputType="textEmailAddress"/>
+
+    <EditText
+        android:id="@+id/contraseñaInicio"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/correoInicio"
+        android:hint="Introduce tu contraseña"
+        android:inputType="textPassword"/>
+    <Button
+        android:id="@+id/botonInicio"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/contraseñaInicio"
+        android:layout_centerHorizontal="true"
+        android:text="Iniciar sesión"/>
+
+    <com.facebook.login.widget.LoginButton
+        android:id="@+id/facebookInicio"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/botonInicio"
+        android:layout_marginTop="30dp"
+        android:layout_centerHorizontal="true"
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp"/>
+
+    <com.google.android.gms.common.SignInButton
+        android:id="@+id/googleInicio"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/facebookInicio"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="15dp"/>
+
+    <Button
+        android:id="@+id/irRegistro"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/googleInicio"
+        android:layout_marginTop="110dp"
+        android:text="Registrate"/>
+</RelativeLayout>

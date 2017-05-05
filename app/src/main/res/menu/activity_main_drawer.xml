@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_descubre"
+            android:icon="@drawable/ic_descubre"
+            android:title="Descubrir" />
+        <item
+            android:id="@+id/nav_busca"
+            android:icon="@drawable/ic_busca"
+            android:title="Buscar" />
+        <item
+            android:id="@+id/nav_ayuda"
+            android:icon="@drawable/ic_ayuda"
+            android:title="Ayuda e información" />
+    </group>
+
+    <item android:title="Mi perfil">
+        <menu>
+            <item
+                android:id="@+id/nav_cierra"
+                android:icon="@drawable/ic_cierra"
+                android:title="Cerrar sesión" />
+            <item
+                android:id="@+id/nav_elimina"
+                android:icon="@drawable/ic_elimina"
+                android:title="Eliminar cuenta" />
+        </menu>
+    </item>
+
+</menu>
